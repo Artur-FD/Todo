@@ -1,0 +1,19 @@
+.app {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #d9d5f2;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.header {
+    margin-bottom: 20px;
+}
+
+.list {
+    list-style: none;
+    height: 100vh;
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
